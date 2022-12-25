@@ -62,4 +62,5 @@ Create a responsive web page which has multiple sections to display their variou
     - "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif (Headings and anchor in headers, buttons, Flex container having cards)
     - "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial, sans-serif (Headings in hero unit,footer)
 
+![image](https://user-images.githubusercontent.com/108535012/209479154-6b44cb91-2abb-44cd-b0cb-77600e763a51.png)
 
